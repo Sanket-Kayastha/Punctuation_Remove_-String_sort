@@ -8,8 +8,7 @@ Use sorting functions to arrange them alphabetically.
 
 Finally, join them back into a string.
 
-
-3. Punctuation remove from a string.
+2. Punctuation remove from a string.
 
 Remove Punctuation
 
